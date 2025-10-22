@@ -1,0 +1,19 @@
+Return-Path: bounce-no-reply@m1crosoft-security.com
+Received: from localhost (localhost [185.203.110.24]) by smtp-out.unrelatedsmtp.net (Postfix) with ESMTPSA id 1A2B3C4D5E for user@example.com; Mon, 03 Feb 2025 06:18:03 +0000 (UTC)
+Received: from smtp-out.unrelatedsmtp.net (smtp-out.unrelatedsmtp.net [185.203.110.24]) by mail.m1crosoft-security.com (Postfix) with ESMTPS id 9F2C7B8A12 for user@example.com; Mon, 03 Feb 2025 06:18:05 +0000 (UTC)
+Received: from mail.m1crosoft-security.com (mail.m1crosoft-security.com [185.203.110.24]) by mx.example.com (Postfix) with ESMTPS id 7D3A41C027 for user@example.com; Mon, 03 Feb 2025 06:18:07 +0000 (UTC)
+Authentication-Results: mx.example.com; spf=fail (mx.example.com: domain of m1crosoft-security.com does not designate 185.203.110.24) smtp.mailfrom=no-reply@m1crosoft-security.com; dkim=none (no signature) header.d=m1crosoft-security.com; dmarc=fail (p=reject) header.from=m1crosoft-security.com
+Received-SPF: fail (mx.example.com: domain of m1crosoft-security.com does not designate 185.203.110.24) client-ip=185.203.110.24; envelope-from=bounce-no-reply@m1crosoft-security.com; helo=mail.m1crosoft-security.com
+Message-ID: 20250203-061803.9f2c7b8a@smtp-out.unrelatedsmtp.net
+Date: Mon, 03 Feb 2025 06:18:03 +0000
+From: "Microsoft Account Security" no-reply@m1crosoft-security.com
+Reply-To: support@m1crosoft-security.com
+To: user@example.com
+Subject: Action Required: Microsoft 365 Password Expiring in 24 Hours
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: mailto:unsubscribe@m1crosoft-security.com, https://m1crosoft-security.com/unsubscribe?u=8f2a1c
+X-Originating-IP: 185.203.110.24
+X-Priority: 1 (Highest)
+X-Mailer: SecureNotify 3.2

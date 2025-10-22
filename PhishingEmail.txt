@@ -1,0 +1,42 @@
+From: no-reply@m1crosoft-security.com
+To: user@example.com
+Date: February 3, 2025, 06:18 AM
+Subject: Action Required: Microsoft 365 Password Expiring in 24 Hours
+
+Dear User,
+
+Your Microsoft 365 password is scheduled to expire within the next 24 hours due to a recent security policy update. To avoid loss of access to Outlook, OneDrive, and Teams, please reset your password immediately.
+
+To keep your account active, click the button below and complete the verification steps:
+
+[Reset My Password]
+(Link: https://m1crosoft‑security.com/account/reset?session=8f2a1c)
+
+For verification, you will be asked to confirm:
+
+Your username and current password
+
+Your recovery email or phone
+
+Multi-factor authentication code
+
+If you do not complete this update within 24 hours, the following will occur:
+
+Temporary suspension of Microsoft 365 services
+
+Inability to send or receive Outlook emails
+
+OneDrive sync interruptions and possible file access delays
+
+If this request was not initiated by you, report suspicious activity here:
+https://account.microsoft.com/security (actual link: http://tinyurl.com/2y-secure-alert)
+
+Thank you for your prompt attention.
+
+Best Regards,
+Microsoft Account Security Team
+Microsoft Corporation
+
+This email was sent from an automated notification system.
+Please do not reply to this message.
+© 2025 Microsoft
